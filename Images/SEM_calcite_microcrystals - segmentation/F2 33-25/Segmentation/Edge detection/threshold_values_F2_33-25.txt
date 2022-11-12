@@ -1,0 +1,17 @@
+Default: 57
+Huang: 28
+Huang2: 29
+Intermodes: 129
+IsoData: 59
+Li: 35
+MaxEntropy: 115
+Mean: 32
+MinError(I): 8
+Minimum: 246
+Moments: 67
+Otsu: 60
+Percentile: 22
+RenyiEntropy: 101
+Shanbhag: 146
+Triangle: 7
+Yen: 101
